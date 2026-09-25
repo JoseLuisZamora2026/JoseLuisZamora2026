@@ -1,16 +1,33 @@
-## Hi there 👋
+# José Luis Zamora
 
-<!--
-**JoseLuisZamora2026/JoseLuisZamora2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SPOC & Odoo Developer | C# | ERP & Business Process Automation**
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabajo como SPOC y desarrollador de Odoo en Ecoquiher, un laboratorio especializado en Integridad Mecánica.
+
+Mi trabajo está enfocado en la implementación, personalización y desarrollo de soluciones en Odoo para apoyar y automatizar procesos de negocio.
+
+También cuento con experiencia en Power Automate y anteriormente trabajé como Analista de Datos en izzi.
+
+## Experiencia
+
+- **SPOC & Odoo Developer — Ecoquiher**
+  Implementación, personalización y desarrollo de soluciones en Odoo para procesos empresariales.
+
+- **Analista de Datos — izzi**
+  Análisis y gestión de información para apoyar procesos y toma de decisiones.
+
+## Tecnologías y herramientas
+
+- Odoo
+- C#
+- Python
+- Power Automate
+- PostgreSQL
+- Git & GitHub
+
+## Actualmente trabajando en
+
+- **SGOT — Sistema de Gestión de Operaciones TecMex**
+  Proyecto de software enfocado en analizar, documentar y posteriormente digitalizar el proceso de gestión de operaciones de TecMex.
