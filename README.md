@@ -30,4 +30,4 @@ También cuento con experiencia en Power Automate y anteriormente trabajé como 
 ## Actualmente trabajando en
 
 - **SGOT — Sistema de Gestión de Operaciones TecMex**
-  Proyecto de software enfocado en analizar, documentar y posteriormente digitalizar el proceso de gestión de operaciones de TecMex.
+  Proyecto de software enfocado en analizar, documentar y posteriormente digitalizar el proceso de gestión de operacion.
