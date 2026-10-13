@@ -1,6 +1,9 @@
-<!-- BANNER: lo agregaremos en el siguiente paso -->
 
-<h1 align="center">José Luis Zamora</h1>
+<p align="center">
+  <img src="Banner%20tecnol%C3%B3gico%20ZAMORA%20con%20escritorio%20azul.png" width="100%" alt="ZAMORA - Software Developer">
+</p>
+
+<h1 align="center">ZAMORA</h1>
 
 <h3 align="center">Software Developer | Odoo ERP | C# & .NET | Automatización Empresarial</h3>
 
@@ -51,7 +54,6 @@ Me interesa construir sistemas que resuelvan necesidades reales de negocio, mejo
 
 <p>
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
   <img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business" />
 </p>
 
