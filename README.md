@@ -3,115 +3,112 @@
   <img src="Banner%20tecnol%C3%B3gico%20ZAMORA%20con%20escritorio%20azul.png" width="100%" alt="ZAMORA - Software Developer">
 </p>
 
-<h1 align="center">ZAMORA</h1>
+<h2 align="center">ZAMORA</h2>
 
-<h3 align="center">Software Developer | Odoo ERP | C# & .NET | Automatización Empresarial</h3>
+<h3 align="center">Software Developer | Odoo ERP | C# & .NET</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo-ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo ERP" />
-  <img src="https://img.shields.io/badge/C%23-Developer-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/.NET-Development-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  Desarrollo de software empresarial, integración de sistemas y automatización de procesos.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Business-Automation-0891B2?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Automatización empresarial" />
-  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/JoseLuisZamora2026">
+    <img src="https://img.shields.io/badge/GitHub-ZAMORA-0D1117?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET">
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## About Me
 
-Soy desarrollador de software enfocado en soluciones empresariales, personalización de sistemas ERP y automatización de procesos.
+Soy desarrollador de software enfocado en soluciones empresariales, implementación y personalización de Odoo ERP, desarrollo con C# y automatización de procesos.
 
-Me interesa construir sistemas que resuelvan necesidades reales de negocio, mejoren la eficiencia operativa y permitan que las empresas optimicen sus procesos mediante la tecnología.
+Actualmente trabajo como SPOC y desarrollador de Odoo en Ecoquiher, participando en la implementación, personalización y desarrollo de soluciones para procesos de negocio. También cuento con experiencia previa como analista de datos.
 
-- 🏢 **ERP:** personalización y desarrollo en Odoo.
-- 💻 **Backend:** desarrollo con C# y .NET.
-- ⚙️ **Automatización:** integración y optimización de procesos empresariales.
-- 📐 **Análisis de sistemas:** requerimientos, documentación y diseño de soluciones.
-- 🔄 **Control de versiones:** gestión de proyectos con Git y GitHub.
+Mi enfoque combina el conocimiento de los procesos empresariales con el desarrollo de soluciones mantenibles, documentadas y orientadas a resolver necesidades reales.
 
----
-
-## 🛠️ Tecnologías y herramientas
-
-### 🏢 ERP y sistemas empresariales
-
-<p>
-  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-</p>
-
-### 💻 Desarrollo de software
-
-<p>
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-</p>
-
-### 🔄 Automatización empresarial
-
-<p>
-  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
-  <img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business" />
-</p>
-
-### 🗄️ Bases de datos
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-</p>
-
-### 🔧 Herramientas de desarrollo
-
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+- **ERP:** Odoo, implementación y personalización.
+- **Backend:** C# y .NET.
+- **Automatización:** optimización e integración de procesos empresariales.
+- **Análisis:** requerimientos, documentación y diseño de sistemas.
+- **Control de versiones:** Git y GitHub.
 
 ---
 
-## 🚀 Proyectos destacados
+## Tech Stack
 
-### 🛒 MERCAGRIX
+### ERP & Business Solutions
 
-Plataforma web en desarrollo, orientada a funcionalidades de negocio y evolución progresiva del producto.
+<p>
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo ERP">
+</p>
 
-**Enfoque:** desarrollo web, organización del código y evolución de funcionalidades.
+### Backend Development
 
-### 🤖 CHAT-BOOT
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
+</p>
 
-Proyecto de una API con C# y .NET para desarrollar un chatbot empresarial e integrar flujos de atención mediante WhatsApp Business Platform.
+### Automation & Integrations
 
-**Enfoque:** backend, APIs e integración de procesos de atención.
+<p>
+  <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate">
+  <img src="https://img.shields.io/badge/WhatsApp_Business-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Business">
+</p>
 
-### ⚙️ SGOT — Sistema de Gestión de Operaciones
+### Databases
 
-Proyecto de análisis y diseño de software para digitalizar y automatizar procesos operativos empresariales.
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL">
+</p>
 
-**Enfoque:** análisis de requerimientos, documentación, diagramas y diseño modular.
+### Development Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</p>
 
 ---
 
-## 🧩 Mi enfoque de desarrollo
+## Featured Projects
 
-- 🧱 Arquitecturas modulares y mantenibles.
-- 📋 Análisis y documentación antes de programar.
-- 🔌 Integración de sistemas empresariales.
-- ⚙️ Automatización de tareas repetitivas.
-- 📈 Soluciones preparadas para evolucionar y escalar.
+### MERCAGRIX
+
+Plataforma web en desarrollo, enfocada en funcionalidades de negocio y evolución progresiva del producto.
+
+**Focus:** desarrollo web, funcionalidades empresariales y evolución del producto.
+
+### CHAT-BOOT
+
+Proyecto de una API con C# y .NET para desarrollar un chatbot empresarial e integrar procesos de atención mediante WhatsApp Business Platform.
+
+**Focus:** backend, APIs e integración de servicios.
+
+### SGOT — Sistema de Gestión de Operaciones
+
+Proyecto de análisis, documentación y diseño de software para digitalizar procesos de gestión operativa empresarial.
+
+**Focus:** requerimientos, documentación, diagramas y diseño de sistemas.
 
 ---
 
-## 🎯 Objetivo profesional
+## Development Approach
 
-Construir soluciones de software que conecten la tecnología con las necesidades reales de las empresas, combinando desarrollo backend, sistemas ERP y automatización empresarial.
+- Arquitecturas modulares y mantenibles.
+- Análisis de requerimientos antes de implementar.
+- Documentación técnica y diagramas de sistemas.
+- Integración de aplicaciones y automatización de procesos.
+- Diseño orientado a la evolución y escalabilidad del software.
 
 ---
 
 <p align="center">
-  <i>Construyendo soluciones, automatizando procesos y aprendiendo continuamente.</i>
+  <i>Building software solutions for real business needs.</i>
 </p>
