@@ -85,7 +85,7 @@ Actualmente trabajo como SPOC y desarrollador de Odoo en Ecoquiher. Mi experienc
 </p>
 
 ---
- Proyectos destacados
+Featured Projects
 
 MERCAGRIX 🔒
 Plataforma web en desarrollo, enfocada en funcionalidades de negocio, arquitectura modular y evolución progresiva del producto.
