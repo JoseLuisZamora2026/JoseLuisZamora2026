@@ -87,15 +87,15 @@ Actualmente trabajo como SPOC y desarrollador de Odoo en Ecoquiher. Mi experienc
 ---
 Featured Projects
 
-MERCAGRIX 🔒
+MERCAGRIX 
 Plataforma web en desarrollo, enfocada en funcionalidades de negocio, arquitectura modular y evolución progresiva del producto.
 Estado: En desarrollo · Repositorio privado
 
-CHAT-BOOT 🔒
+CHAT-BOOT 
 API en desarrollo con C# y .NET para un chatbot empresarial, con integración de WhatsApp Business Platform de Meta.
 Estado: En desarrollo · Repositorio privado
 
-SGOT — Sistema de Gestión de Operaciones 🔒
+SGOT — Sistema de Gestión de Operaciones 
 Proyecto de análisis, documentación y diseño de software para digitalizar procesos operativos empresariales.
 Estado: En desarrollo · Repositorio privado
 
